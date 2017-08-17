@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Qt\;CMake Files\Qt\5.7\;CMake Files\Qt\5.7\mingw53_32\;CMake Files\Qt\5.7\mingw53_32\lib\;CMake Files\Qt\5.7\mingw53_32\lib\cmake\;CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\;CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\;CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\;CMake Files\test\;CMake Files\test\lib\;CMake Files\test\lib\googletest\;CMake Files\test\lib\googletest\googlemock\;CMake Files\test\lib\googletest\googletest\;CMake Files\test\lib\googletest\googletest\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/include"/>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/include"/>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/include"/>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/include"/>
+					<Add directory="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/cmake-build-debug/test/lib/googletest/googlemock/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QDDSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googlemock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googlemock\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\cmake\"/>
+		</Unit>
+		<Unit filename="C:/Users/manue/Desktop/Manuel/scuola/Universita&apos;/I Anno/Programmazione/Elaborato_Piera/test/lib/googletest/googletest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\test\lib\googletest\googletest\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

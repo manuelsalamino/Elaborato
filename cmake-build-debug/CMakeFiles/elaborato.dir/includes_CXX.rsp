@@ -1,0 +1,1 @@
+-isystem /Qt/5.7/mingw53_32/include -isystem /Qt/5.7/mingw53_32/include/QtWidgets -isystem /Qt/5.7/mingw53_32/include/QtGui -isystem /Qt/5.7/mingw53_32/include/QtCore -isystem /Qt/5.7/mingw53_32/./mkspecs/win32-g++ 

@@ -1,0 +1,2 @@
+ToolSet: w64 5.0@C:\Qt\Tools\mingw530_32
+CMake: 3.6.2@D:\Programmi\CLion 2016.2.3\bin\cmake\bin\cmake.exe
