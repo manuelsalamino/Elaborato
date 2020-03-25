@@ -1,3 +1,3 @@
 # Spreadsheet
 
-Spreadsheet "Excel-similar" build in c++ using QT library for the visualization
+Spreadsheet "Excel-similar" developed in C++ using QT library for the visualization
